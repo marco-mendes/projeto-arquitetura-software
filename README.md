@@ -32,6 +32,8 @@ Exemplos de estilos comuns no mercado incluem MVC, MVVM, Eventos, Microkernel, A
 
 - [Guia 3 - Estilos Arquiteturais](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.3%20Estilos%20Arquiteturais.md)
 
+## Racionalizando a Escolha do Estilo
+
 Uma arquitetura complexa pode ser vários estilos arquiteturais combinados. E tudo bem. Por exemplo, podemos ter uma arquitetura Web com estilos de eventos e nuvem. Agora, é importante que a sua escolha não seja emocional. Ela deve ser racional.
 
 Já observei arquitetos escolhendo estilos e plataformas baseado puramente na preferência emocional, o que pode resultar em riscos expostos e bombas relógios para as organizações onde eles trabalham.
