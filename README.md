@@ -3,7 +3,8 @@ Compilo aqui um conjunto de recursos para a preparação de um projeto de arquit
 
 O processo que aqui descrevo irá seguir essa estrutura didática, que você pode e deve adaptar para a sua realidade.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d97a624a-64bb-47c1-a5e7-22891276850a" />
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/ac5cb1bc-ee7e-4914-b757-3a354eafecbf" />
+
 
 ---
 
