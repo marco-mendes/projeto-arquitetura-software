@@ -11,7 +11,7 @@ O processo que aqui descrevo irá seguir essa estrutura didática, que você pod
 ## Introdução
 Primeiramente, arquitetos devem participar desde os primeiros momentos de um projeto. O envolvimento tardio de um arquiteto é uma receita para exposição ao risco e ao fracasso, como posso atestar por experiência própria.
 
-Se você não é um arquiteto ou deseja entender o que é uma arquitetura de software e o que um arquiteto faz, preparei [esse guia](https://github.com/marco-mendes/arquitetura-software/1.1%20O%20que%20%C3%A9%20um%20estilo%20arquitetural.md) aqui para você.
+Se você não é um arquiteto ou deseja entender o que é uma arquitetura de software e o que um arquiteto faz, preparei [esse guia](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.0%20O%20que%20é%20arquitetura%20e%20quem%20e%20o%20arquiteto.md) aqui para você.
 
 ## Coleta de Requisitos e Definição do Escopo da Arquitetura
 Uma vez embarcado, arquitetos devem realizar um trabalho diligante junto aos seus Product Owners/Analistas de Negócio para captura requisitos não-funcionais (atributros de qualidade) e selecionar, a partir dos requisitos funcionais e não-funcionais, aquele subconjunto de requisitos que irão ser classificdos como arquiteturais. 
