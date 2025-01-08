@@ -24,4 +24,14 @@ Leia os guias abaixo para entender o que são requisitos arquiteturais e requisi
 
 - [Guia 2 - Requisitos Não-Funcionais](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.2%20Requisitos%20Não-Funcionais.md)
 
+## Definição do Estilo (ou estilos) Arquiteturais
+
+O estilo arquitetural é a maior definição no projeto de uma arquitetura de software. Ele representa uma abordagem estratégica para projetar, implementar e distribuir uma aplicação. Dentro do campo da arquitetura de software para TI, existem diversos estilos arquiteturais disponíveis, cada um com suas próprias vantagens e desvantagens.
+
+Exemplos de estilos comuns no mercado incluem MVC, MVVM, Microkernel, API, Serviços ou Nuvem. O guia abaixo traz mais informações sobre estilos arquiteturais.
+
+- [Guia 3 - Estilos Arquiteturais](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.3%20Estilos%20Arquiteturais.md)
+
+
+
  *(Em construção)*
