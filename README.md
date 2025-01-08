@@ -40,5 +40,10 @@ Já observei arquitetos escolhendo estilos e plataformas baseado puramente na pr
 
 Para reduzir o seu viés (e o meu também), sempre recomendo usar um ADR (Registro De Decisões Arquiteturais). Veja [nesse guia aqui](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.4%20ADR.md) como racionalizar as suas decisões.
 
+## Definição da Plataforma Arquitetural 
+
+Com o estilo escolhido e justificado, agora você parte para definir a plataforma arquitetural. A plataforma arquitetural representa a maior decisão tecnonlógica em uma arquitetura de software e represente a materiaização de um ou mais estilos arquiteturais. Na prática, ela é composta pelos frameworks, bibliotecas, componentes e práticas técnicas que irão realizar o seu estilo.
+
+Veja aqui um [guia de plataformas](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.5%20Plataforma%20Arquitetural.md),  onde trago exemplos práticos de plataformas para vários domínios.
 
  *(Em construção)*
