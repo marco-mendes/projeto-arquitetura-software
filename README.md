@@ -38,7 +38,7 @@ Uma arquitetura complexa pode ser vários estilos arquiteturais combinados. E tu
 
 Já observei arquitetos escolhendo estilos e plataformas baseado puramente na preferência emocional, o que pode resultar em riscos expostos e bombas relógios para as organizações onde eles trabalham.
 
-Para reduzir o seu viés (e o meu também), sempre recomendo usar um ADR (Registro De Decisões Arquiteturais). Veja [nesse guia aqui]([https://github.com/marco-mendes/projeto-arquitetura-software/tree/main](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.4%20ADR.md)) como racionalizar as suas decisões.
+Para reduzir o seu viés (e o meu também), sempre recomendo usar um ADR (Registro De Decisões Arquiteturais). Veja [nesse guia aqui](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.4%20ADR.md) como racionalizar as suas decisões.
 
 
  *(Em construção)*
