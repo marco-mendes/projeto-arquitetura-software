@@ -28,10 +28,15 @@ Leia os guias abaixo para entender o que são requisitos arquiteturais e requisi
 
 O estilo arquitetural é a maior definição no projeto de uma arquitetura de software. Ele representa uma abordagem estratégica para projetar, implementar e distribuir uma aplicação. Dentro do campo da arquitetura de software para TI, existem diversos estilos arquiteturais disponíveis, cada um com suas próprias vantagens e desvantagens.
 
-Exemplos de estilos comuns no mercado incluem MVC, MVVM, Microkernel, API, Serviços ou Nuvem. O guia abaixo traz mais informações sobre estilos arquiteturais.
+Exemplos de estilos comuns no mercado incluem MVC, MVVM, Eventos, Microkernel, API, Serviços ou Nuvem. O guia abaixo traz mais informações sobre estilos arquiteturais.
 
 - [Guia 3 - Estilos Arquiteturais](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.3%20Estilos%20Arquiteturais.md)
 
+Uma arquitetura complexa pode ser vários estilos arquiteturais combinados. E tudo bem. Por exemplo, podemos ter uma arquitetura Web com estilos de eventos e nuvem. Agora, é importante que a sua escolha não seja emocional. Ela deve ser racional.
+
+Já observei arquitetos escolhendo estilos e plataformas baseado puramente na preferência emocional, o que pode resultar em riscos expostos e bombas relógios para as organizações onde eles trabalham.
+
+Para reduzir o seu viés (e o meu também), sempre recomendo usar um ADR (Registro De Decisões Arquiteturais). Veja nesse guia aqui como racionalizar as suas decisões.
 
 
  *(Em construção)*
