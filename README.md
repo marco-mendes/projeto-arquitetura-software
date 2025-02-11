@@ -65,7 +65,7 @@ Adicionalmente, mostro como modelar estilos arquiteturais com a notação C4:
 
 Com o estilo escolhido e justificado, agora você parte para definir a plataforma arquitetural. A plataforma arquitetural representa a maior decisão tecnonlógica em uma arquitetura de software e represente a materiaização de um ou mais estilos arquiteturais. Na prática, ela é composta pelos frameworks, bibliotecas, componentes e práticas técnicas que irão realizar o seu estilo.
 
-Veja aqui um [guia de plataformas](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/1.5%20Plataforma%20Arquitetural.md),  onde trago exemplos práticos de plataformas para vários domínios.
+Veja aqui um [guia de plataformas](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/2.2%20Plataforma%20Arquitetural.md),  onde trago exemplos práticos de plataformas para vários domínios.
 
  ## Detalhamento das Táticas Arquiteturais
 
