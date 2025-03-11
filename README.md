@@ -72,7 +72,7 @@ Veja aqui um [guia de plataformas](https://github.com/marco-mendes/projeto-arqui
 Uma tática arquitetural é uma abordagem estruturada para atender a um ou mais requisitos arquiteturais significativos, sejam eles funcionais ou não-funcionais, como desempenho, segurança, disponibilidade ou manutenção. Essas táticas combinam decisões tecnológicas derivadas de Registros de Decisões Arquiteturais (ADRs) com considerações específicas do contexto de um projeto. Elas representam soluções reutilizáveis para problemas recorrentes e ajudam a padronizar a implementação de sistemas complexos, promovendo consistência e clareza durante o ciclo de vida do software.
 
 [Veja esse guia aqui](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/4.1%20T%C3%A1ticas%20Arquiteturais.md) para rever o conceito de táticas arquiteturais.
-E veja aqui um exemplo de uma [tática arquitetural bem descrita](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/4.2%20Exemplo%20robusto%20de%20t%C3%A1tica%20arquitetural.md).
+E veja aqui um exemplo de uma [tática arquitetural](https://github.com/marco-mendes/projeto-arquitetura-software/blob/main/4.2%20Exemplo%20de%20t%C3%A1tica%20arquitetural.md).
 
 ## Identificação e Resposta a Riscos Arquiteturais
 
